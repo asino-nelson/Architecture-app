@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ArchitectureApp.MySplash" parent="Theme.SplashScreen">
+
+        <item name="windowSplashScreenBackground">#000000</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/baseline_house_siding_24</item>
+        <item name="postSplashScreenTheme">@style/Theme.ArchitectureApp</item>
+
+    </style>
+
+</resources>
